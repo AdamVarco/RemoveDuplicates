@@ -1,0 +1,26 @@
+body {
+	background: blue;
+	
+}
+
+a {
+	color:white;
+}
+
+p{
+	
+}
+
+//class with a dot
+.something {
+	background:pink;
+}
+
+.first-div
+{
+	20 px;
+}
+
+//css will find the most exact element and target it.
+//class -is multiple things
+// id is one thing

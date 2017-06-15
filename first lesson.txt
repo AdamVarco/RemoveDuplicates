@@ -1,0 +1,69 @@
+Lamda school
+- lesson 1
+
+lamda univeristy .com - 6 month program - entire cs program - free up front.
+- see that -percentage of income - sounds good. 
+
+a - is the link in html
+
+img - is the image - src
+
+<--!
+
+comment
+
+
+type in css - link
+
+
+
+--
+second lesson
+--
+responsive design
+nav
+float - instead of piled on top - pile on nisey
+
+margin - adds px buffer to the element - outside border
+padding - adds px to the inside the element
+
+padding could be used to make buttons
+
+Margin - top bottom left right
+
+.container {
+ margin : 0 auto;
+ 
+}
+
+
+--- you can add the bootstrap just by copying the link in on the bootstrap site
+bootstrap is free and open source
+
+easiest way to to create responsive design is to create a grid
+
+col-mid-1 - doesn't stretch it
+col-mid 1+++- keeps streching it
+
+----
+lesson 4 - document object -model - has all the html and stuff in it
+- Javascript can iterate or change it
+
+link towards the bottom of the body in html to get to the javascript
+
+<script src"script.js" ></script>
+
+target id in html - <h1 id ="whatever"></h1>
+in Javascript
+document.getElementById("whatever").innerHTML="Whatever we want";
+ var el = document.createElement('div');
+el.innerHMTL = "<p> Hello World</p>';
+document.body.appendChild(el);
+
+var e2 = document.querySelector('div');
+var newEL =doucment.createElement('p');
+
+
+
+
+
